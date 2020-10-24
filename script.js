@@ -1,4 +1,4 @@
-//alert message
-function startGame ();
-alert('You have awakened from a cryosleep after fifty years.')
-
+//alert message on click
+function startGame() {
+    alert("You have awakened from a 50 year long cryosleep.");
+}
