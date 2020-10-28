@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-image: url(https://images.wallpapersden.com/image/download/alien-isolation_67773_2560x1080.jpg);
+    background-image: url("alien.jpg");
     background-attachment: fixed;
     background-size: cover;
     color: whitesmoke;
