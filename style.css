@@ -10,8 +10,12 @@ body {
     position: fixed;
     left: 47%;
     top: 80%;
-    border-color: black;
+    padding: 0;
+    border: none;
+    background: none;    
     cursor: pointer;
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1 {
